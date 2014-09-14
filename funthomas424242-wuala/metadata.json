@@ -12,7 +12,7 @@
   "source": "https://github.com/FunThomas424242/wuala.puppet.git",
   "author": "FunThomas424242 (Thomas Schubert)",
   "license": "GNU LGPL v3",
-  "summary": "Karaf Module",
+  "summary": "Wuala Module",
   "description": "Install Wuala",
   "project_page": "https://github.com/FunThomas424242/wuala.puppet",
   "dependencies": [
