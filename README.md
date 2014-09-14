@@ -1,4 +1,4 @@
 wuala.puppet
 ============
 
-Puppet modul to install wuala.
+Puppet Modul to install wuala, for details read the module description at [Readme](./funthomas424242-wuala/README.md).
