@@ -1,5 +1,5 @@
-# Cache objects
-packer_cache/
+# build dir
+pkg/
 
 # For built boxes
-*.box
+*.gz
