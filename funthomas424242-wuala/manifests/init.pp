@@ -110,5 +110,4 @@ class wuala  (
 	}
 }
 
-include wuala
 

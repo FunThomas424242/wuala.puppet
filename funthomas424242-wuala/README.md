@@ -1,6 +1,6 @@
-# Karaf module for Puppet #
+# Wuala module for Puppet #
 
-This module installs Karaf.
+This module installs Wuala.
 
 ## Description
 
