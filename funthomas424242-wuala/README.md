@@ -4,7 +4,7 @@ This module installs Wuala.
 
 ## Description
 
-This module can install Karaf in a simple way.
+This module can install Wuala  in a simple way.
 
 Currently supports:
 
