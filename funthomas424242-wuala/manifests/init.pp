@@ -99,7 +99,7 @@ class wuala  (
 	  src_target => $tmpDir,
 	  target => $_targetDir,
 	  checksum => $checksum,
-      require => File[$tmpDir],
+    require => File[$tmpDir],
 	}
 
 	file { 'wuala.desktop':
